@@ -23,3 +23,7 @@ body {
 .sm-shadow {
   text-shadow: 2px 2px #0000005c;
 }
+
+.hvw {
+  width: 50vw;
+}
